@@ -5,5 +5,7 @@ use_case_big_data_course/.idea
 big_data_courses.zip
 additional_train.yaml
 non-commercial_license.docx
-data/
+data/big_data_courses.zip
+data/data_source.zip
+data/dataset_additional_riib.zip
 Programme_Les fondamentaux de l'intelligence artificielle et du big data - 2 jours.pdf
