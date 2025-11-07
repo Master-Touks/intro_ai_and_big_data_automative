@@ -1,0 +1,14 @@
+- Libraries Big Data O:
+  - [] Spark (Java, Python)
+  - [] Hadoop (Java)
+  - [] Hive (SQL)
+  - [] RabbitMQ (Java, Python)
+  - [] Kafka (Java, Python)
+
+- Tools ETL OS:
+  - [] Airbyte
+  - [] Spark
+  - [] Kafka
+  - [] Python (vanilla)
+  - [] n8n
+  - ... 
