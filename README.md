@@ -37,11 +37,16 @@ big_data_course/
 │   ├── 02_maintenance_predictive.ipynb
 │   └── 03_analyse_comportementale_conducteurs.ipynb
 │
-├── data_source/                     # Données pour exercices
-│   └── telemetry_simulated.csv
+├── data/                     # Données pour exercices
+│   └── big_data_course.zip
+    └── data_source.zip
+    └── dataset_additional_riib.zip
 │
-├── riib/                            # Dataset RIIB (images capteurs)
-│   └── additional/
+├── use_case_big_data_courses /                       # Exercices pratiques (Jupyter)
+│   ├── doc/
+│   ├── model.py
+│   └── requirement.txt
+│   └── uds_requirements_data.csv
 │
 ├── notes.md                         # Notes contextuelles
 ├── CLAUDE.md                        # Instructions de création
