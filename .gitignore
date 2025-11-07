@@ -1,8 +1,5 @@
 .claude/
-riib/
-data_source/
 use_case_big_data_course/.idea
-venv/
 .DS_Store
 .idea/
 big_data_courses.zip
